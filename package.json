@@ -1,0 +1,18 @@
+{
+  "name": "terser-brunch",
+  "description": "A brunch plugin for minification of JavaScript",
+  "private": false,
+  "author": "vitalije at kviziracija dot net",
+  "version": "0.0.1",
+  "repository": "https://github.com/vitalije/terser-brunch",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee -o ./ -c --bare src/index.coffee"
+  },
+  "dependencies": {
+    "terser": "^3.8.2"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  }
+}

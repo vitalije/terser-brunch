@@ -1,1 +1,4 @@
-# terser-brunch
+# A brunch plugin for JavaScript minification
+
+Uses terser
+
