@@ -3,7 +3,7 @@
   "description": "A brunch plugin for minification of JavaScript",
   "private": false,
   "author": "vitalije at kviziracija dot net",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/vitalije/terser-brunch",
   "main": "index.js",
   "scripts": {
